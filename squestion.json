@@ -1,139 +1,100 @@
 {
   "questions": [
     {
-      "question": "How many verses Bhagavad Gita has?",
+      "question": "How many verses does the Bhagavad Gita have?",
       "options": ["700", "1800", "650", "799"],
       "correctOption": 0,
       "points": 10
     },
     {
-      "question": "how many chapter are there in Bhagwad Gita",
+      "question": "How many chapters are there in the Bhagavad Gita?",
       "options": ["17", "19", "18", "20"],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "Who narrates the Bhagavad Gita to Dritarashtra??",
-      "options": ["Sanjaya", "Arjun", "krishna", "Karna"],
+      "question": "Who narrates the Bhagavad Gita to Dritarashtra?",
+      "options": ["Sanjaya", "Arjuna", "Krishna", "Karna"],
       "correctOption": 0,
       "points": 10
     },
     {
       "question": "Who is the main speaker of the Bhagavad Gita?",
-      "options": [" Arjuna", "Krishna", "Yudhishthira", "Bhima"],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "How does data flow naturally in React apps?",
-      "options": [
-        "From parents to children",
-        "From children to parents",
-        "Both ways",
-        "The developers decides"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "How to pass data into a child component?",
-      "options": ["State", "Props", "PropTypes", "Parameters"],
+      "options": ["Arjuna", "Krishna", "Yudhishthira", "Bhima"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "When to use derived state?",
-      "options": [
-        "Whenever the state should not trigger a re-render",
-        "Whenever the state can be synchronized with an effect",
-        "Whenever the state should be accessible to all components",
-        "Whenever the state can be computed from another state variable"
-      ],
+      "question": "In which epic is the Bhagavad Gita a part?",
+      "options": ["Ramayana", "Vedas", "Upanishads", "Mahabharata"],
       "correctOption": 3,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "What triggers a UI re-render in React?",
-      "options": [
-        "Running an effect",
-        "Passing props",
-        "Updating state",
-        "Adding event listeners to DOM elements"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "When do we directly \"touch\" the DOM in React?",
-      "options": [
-        "When we need to listen to an event",
-        "When we need to change the UI",
-        "When we need to add styles",
-        "Almost never"
-      ],
-      "correctOption": 3,
-      "points": 20
-    },
-    {
-      "question": "In what situation do we use a callback to update state?",
-      "options": [
-        "When updating the state will be slow",
-        "When the updated state is very data-intensive",
-        "When the state update should happen faster",
-        "When the new state depends on the previous state"
-      ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "If we pass a function to useState, when will that function be called?",
-      "options": [
-        "On each re-render",
-        "Each time we update the state",
-        "Only on the initial render",
-        "The first time we update the state"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "Which hook to use for an API request on the component's initial render?",
-      "options": ["useState", "useEffect", "useRef", "useReducer"],
+      "question": "What is the primary setting of the Bhagavad Gita?",
+      "options": ["Dwaraka", "Kurukshetra", "Hastinapura", "Ayodhya"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Which variables should go into the useEffect dependency array?",
-      "options": [
-        "Usually none",
-        "All our state variables",
-        "All state and props referenced in the effect",
-        "All variables needed for clean up"
-      ],
-      "correctOption": 2,
-      "points": 30
+      "question": "Which chapter of the Bhagavad Gita is known as the 'Yoga of Knowledge'?",
+      "options": ["Chapter 2", "Chapter 4", "Chapter 6", "Chapter 9"],
+      "correctOption": 1,
+      "points": 10
     },
     {
-      "question": "An effect will always run on the initial render.",
-      "options": [
-        "True",
-        "It depends on the dependency array",
-        "False",
-        "In depends on the code in the effect"
-      ],
+      "question": "What is the essence of Krishna's teaching in the Bhagavad Gita about action?",
+      "options": ["Perform actions without attachment to the results", "Avoid all forms of action", "Seek immediate rewards", "Focus only on personal gain"],
       "correctOption": 0,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "When will an effect run if it doesn't have a dependency array?",
-      "options": [
-        "Only when the component mounts",
-        "Only when the component unmounts",
-        "The first time the component re-renders",
-        "Each time the component is re-rendered"
-      ],
+      "question": "Which chapter of the Bhagavad Gita is called the 'Yoga of Devotion'?",
+      "options": ["Chapter 7", "Chapter 9", "Chapter 12", "Chapter 18"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the concept of 'Svadharma' as discussed in the Bhagavad Gita?",
+      "options": ["Universal duty", "Personal duty based on one's role and nature", "Duty of a king", "Duty of a sage"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "According to Krishna, what is the nature of the soul (Atman) in the Bhagavad Gita?",
+      "options": ["Mortal and perishable", "Immortal and eternal", "Subject to change", "Created and destroyed"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which form of yoga is described as the 'Yoga of Action' in the Bhagavad Gita?",
+      "options": ["Karma Yoga", "Bhakti Yoga", "Jnana Yoga", "Raja Yoga"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What does Krishna reveal to Arjuna during the 'Vishvarupa' or Universal Form vision?",
+      "options": ["His role as a warrior", "His divine and all-encompassing nature", "The future of the battle", "The secrets of the universe"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In the Bhagavad Gita, what is Krishna’s stance on renunciation and selfless action?",
+      "options": ["Renunciation is superior to action", "Selfless action is superior to renunciation", "Both are equally important", "Renunciation should be avoided"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which chapter of the Bhagavad Gita is known as the 'Yoga of the Absolute Truth'?",
+      "options": ["Chapter 6", "Chapter 8", "Chapter 11", "Chapter 18"],
       "correctOption": 3,
-      "points": 20
+      "points": 10
+    },
+    {
+      "question": "What does Krishna emphasize about the importance of knowledge in the Bhagavad Gita?",
+      "options": ["Knowledge should be hidden", "Knowledge is secondary to devotion", "Knowledge leads to liberation and self-realization", "Knowledge is irrelevant in the path of action"],
+      "correctOption": 2,
+      "points": 10
     }
   ]
 }
