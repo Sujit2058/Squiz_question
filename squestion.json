@@ -1,14 +1,14 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
+      "question": "How many verses Bhagavad Gita has?",
+      "options": ["700", "1800", "650", "799"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "question": "how many chapter are there in Bhagwad Gita",
+      "options": ["17", "19", "18", "20"],
       "correctOption": 3,
       "points": 10
     },
